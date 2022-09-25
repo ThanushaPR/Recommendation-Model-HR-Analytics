@@ -10,29 +10,29 @@ Multiple attributes have been provided around Employee's past and current perfor
 
 Features:
 
-employee_id: Unique ID for employee
+1.employee_id: Unique ID for employee
 
-department: Department of employee
+2.department: Department of employee
 
-region: Region of employment (unordered)
+3.region: Region of employment (unordered)
 
-education: Education Level
+4.education: Education Level
 
-gender: Gender of Employee
+5.gender: Gender of Employee
 
-recruitment_channel: Channel of recruitment for employee
+6.recruitment_channel: Channel of recruitment for employee
 
-no_ of_ trainings: no of other trainings completed in previous year on soft skills, technical skills etc.
+7.no_ of_ trainings: no of other trainings completed in previous year on soft skills, technical skills etc.
 
-age: Age of Employee
+8.age: Age of Employee
 
-previous_ year_ rating: Employee Rating for the previous year
+9.previous_ year_ rating: Employee Rating for the previous year
 
-length_ of_ service: Length of service in years
+10.length_ of_ service: Length of service in years
 
-awards_ won?: if awards won during previous year then 1 else 0
+11.awards_ won?: if awards won during previous year then 1 else 0
 
-avg_ training_ score: Average score in current training evaluations
+12.avg_ training_ score: Average score in current training evaluations
 
 is_promoted: (Target) Recommended for promotion
 
